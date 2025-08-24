@@ -1,2 +1,2 @@
-### **IFLYTEK LLM Algorithm Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **LLM Algorithm Engineer Intern**  
+**Apr 2025 – Jul 2025 | IFLYTEK**  
