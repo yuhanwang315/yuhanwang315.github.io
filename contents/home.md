@@ -1,20 +1,17 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a Master's degree in Computer Technology at the Beijing University of Technology, Beijing, China.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>wangyuhan@emails.bjut.edu.cn</code>  
+<code>wyh7667@gmail.com</code>  
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Beijing University of Technology**, Master of Computer Technology (Sep 2023 – Expected Jun 2026)
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**University of Jinan**, Bachelor of Computer Science and Technology (Sep 2019 – Jun 2023)
 
 #### Research Interests  
-XX, XX, XX, XX.
+Short-Text Classification, Natural Language Processing,Large Language Models
+
+
