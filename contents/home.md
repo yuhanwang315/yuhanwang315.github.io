@@ -1,7 +1,6 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![Yuhan Wang](https://img.shields.io/badge/Yuhan_Wang-github-blue?logo=github)](https://github.com/yuhanwang315)
 
-  Hello, I’m Yuhan Wang, currently pursuing a Master’s degree in Computer Technology at Beijing University of Technology. My primary research interests lie in Large Language Models (LLMs) and Multimodal LLMs (MLLMs). I am currently applying for a PhD program, aiming to conduct in-depth research in the fields of LLMs and MLLMs, and to contribute to the innovation and application of related technologies.
-
+I'm currently pursuing a Master's degree in Computer Technology at the Beijing University of Technology, Beijing, China.
 
 #### Email  
 <code>wangyuhan@emails.bjut.edu.cn</code>  
